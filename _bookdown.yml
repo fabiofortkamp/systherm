@@ -1,8 +1,28 @@
 book_filename: "bookdownproj"
 output_dir: docs
 delete_merged_file: true
-edit: https://github.com/YOUR GITHUB USERNAME/YOUR REPO NAME/edit/master/%s
-view: https://github.com/YOUR GITHUB USERNAME/YOUR REPO NAME/blob/master/%s
+edit: https://github.com/fabiofortkamp/systherm/edit/master/%s
+view: https://github.com/fabiofortkamp/systherm/blob/master/%s
 language:
+  label:
+    fig: 'Figura '
+    tab: 'Tabela '
+    eq: 'Eq. '
+    thm: 'Teorema '
+    lem: 'Lema '
+    cor: 'Corolário '
+    prp: 'Proposição '
+    cnj: 'Conjectura '
+    def: 'Definição '
+    exm: 'Exexmeplo '
+    exr: 'Exercício '
+    hyp: 'Hipótese '
+    proof: 'Prova '
+    remark: 'Observação '
+    solution: 'Solução '
   ui:
-    chapter_name: "Chapter "
+    edit: Editar
+    chapter_name: 'Capítulo '
+    appendix_name: 'Apêndice'
+
+
